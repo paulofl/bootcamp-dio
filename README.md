@@ -1,2 +1,2 @@
-# bootcamp-dio
-Repositório para compartilhar o progresso
+# Bootcamp DIO
+Repositório para compartilhar o progresso no bootcamp
